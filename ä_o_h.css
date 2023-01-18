@@ -1,0 +1,32 @@
+.content {
+    background-color: rgba(0, 0, 0, 0.45);
+    color: white;
+    margin: 50px;
+    height: 450px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.content img {
+    position: absolute;
+    width: 375px;
+    height: 300px;
+    top: 35%;
+    left: 60%;
+}
+
+#eh {
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    top: 22%;
+    left: 40%;
+}
+
+#eh2 {
+    position: absolute;
+    width: 700px;
+    height: 400px;
+    top: 22%;
+    left: 40%;
+}
